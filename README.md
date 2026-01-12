@@ -38,4 +38,4 @@ Enter the Degree = 100
 This is my first real C project! Built while learning the basics of C programming. 🎉
 
 ## Author
-Beginner C programmer learning and growing!
+Noor Alazzam 
